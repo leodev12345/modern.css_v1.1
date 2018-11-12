@@ -84,15 +84,15 @@ avibile colors:
 
 red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
-.vis-bold - creates bold link when its active
+.act-bold - creates bold link when its active
 
-.vis-italic - creates italic link when its active
+.act-italic - creates italic link when its active
 
-.vis-underline - creates underlined link when its active
+.act-underline - creates underlined link when its active
 
-.vis-overline - creates overlined link when its active
+.act-overline - creates overlined link when its active
 
-.vis-line-thr - creates line through link when its active
+.act-line-thr - creates line through link when its active
 
 ### How to inport modern.css in your project
 #### 1.download modern.css go to modern.css_v1.0 > click download zip
