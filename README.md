@@ -1,5 +1,5 @@
-# WHATS NEW IN MODERN.CSS V1.0
-# modern.css_v1.0
+# WHATS NEW IN MODERN.CSS V1.1
+# modern.css_v1.1
 ## classes:
 
 .bg-*color* - sets the background 
